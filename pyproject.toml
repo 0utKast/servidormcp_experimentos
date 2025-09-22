@@ -1,0 +1,6 @@
+
+[project]
+name = "fastmcp-experimentos"
+version = "0.1.0"
+description = "Experimentos con fastMCP"
+requires-python = ">=3.10"
